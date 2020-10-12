@@ -1,16 +1,25 @@
 {
   "name": "node_project",
   "version": "1.0.0",
-  "description": "",
+  "description": "��F\u0000i\u0000n\u0000a\u0000l\u0000_\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000F\u0000i\u0000n\u0000a\u0000l\u0000_\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node main.js"
+    "start": "node main.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fisheep1207/Final_project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fisheep1207/Final_project/issues"
+  },
+  "homepage": "https://github.com/Fisheep1207/Final_project#readme"
 }
